@@ -1,6 +1,6 @@
 #OELIGHTSYSTEM OLS`
-OLS founder / ceo
-OLS iense & aunselo
+#olsdeveloper
+OLS founder/inventer/ ceo
+OLS iense & aunselo | iee.aeo |
 OLS teacher
-OLS e-tech.web.Developer Admin projects
-# olsdeveloper
+OLS web IT.devs.Admin. teams 
