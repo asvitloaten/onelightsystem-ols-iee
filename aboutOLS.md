@@ -1,11 +1,8 @@
-`OELIGHTSYSTEM OLS` aste master Level 4 Founder ceo, Inventor, cto @asvitloaten
+### OELIGHTSYSTEM OLS aste master Level 4 Founder ceo, Inventor, cto @asvitloaten
+## OLS iense & aunselo OLS iee.aeo department
+## ols iee.web mainDeveloper
+# olsme.web.admin -> public
 
-OLS iense & aunselo | iee.aeo |
-ols web developer
-olsme.web.admin
-//
-
-
-new OLS prospect 
+new OLS prospect affiliate 
 Submitting Aplication
 https://www.olsme.com/register
